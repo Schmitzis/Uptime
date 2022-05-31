@@ -4,7 +4,7 @@
     "url": "https://msqu.de/healthz",
     "icon": "https://favicons.githubusercontent.com/msqu.de",
     "slug": "msqu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
@@ -16,6 +16,7 @@
     "timeMonth": 618,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2022-05-31": 0,
       "2022-05-26": 68
     }
   }
