@@ -10,14 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.90%",
-    "time": 592,
-    "timeDay": 665,
-    "timeWeek": 631,
-    "timeMonth": 647,
-    "timeYear": 592,
+    "time": 590,
+    "timeDay": 557,
+    "timeWeek": 608,
+    "timeMonth": 641,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2022-05-31": 26,
       "2022-05-26": 68
     }
+  },
+  {
+    "name": "Ansible Galaxy",
+    "url": "https://galaxy.ansible.com/api/v2/collections/community/general/versions/?page_size=100",
+    "icon": "https://favicons.githubusercontent.com/galaxy.ansible.com",
+    "slug": "ansible-galaxy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1677,
+    "timeDay": 1677,
+    "timeWeek": 1677,
+    "timeMonth": 1677,
+    "timeYear": 1677,
+    "dailyMinutesDown": {}
   }
 ]
