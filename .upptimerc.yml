@@ -7,6 +7,14 @@ sites:
     url: https://msqu.de/healthz
   - name: Ansible Galaxy
     url: https://galaxy.ansible.com/api/v2/collections/community/general/versions/?page_size=100
+    maxResponseTime: 1000
+  - name: Jenkins Plugins
+    url: https://get.jenkins.io/plugins
+    maxResponseTime: 1000
+  - name: CenterDevice
+    url: https://auth.centerdevice.de/login
+    maxResponseTime: 1000
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
