@@ -27,19 +27,19 @@
     "url": "https://galaxy.ansible.com/api/v2/collections/community/general/versions/?page_size=100",
     "icon": "https://favicons.githubusercontent.com/galaxy.ansible.com",
     "slug": "ansible-galaxy",
-    "status": "down",
-    "uptime": "77.87%",
+    "status": "degraded",
+    "uptime": "77.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.18%",
-    "uptimeMonth": "77.87%",
-    "uptimeYear": "77.87%",
-    "time": 3307,
-    "timeDay": 1996,
-    "timeWeek": 3198,
-    "timeMonth": 3307,
-    "timeYear": 3307,
+    "uptimeWeek": "63.06%",
+    "uptimeMonth": "77.81%",
+    "uptimeYear": "77.81%",
+    "time": 3266,
+    "timeDay": 2120,
+    "timeWeek": 3152,
+    "timeMonth": 3266,
+    "timeYear": 3266,
     "dailyMinutesDown": {
-      "2022-07-02": 1364,
+      "2022-07-02": 1376,
       "2022-07-01": 1440,
       "2022-06-30": 908
     }
@@ -61,7 +61,7 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-07-02": 1364,
+      "2022-07-02": 1376,
       "2022-07-01": 1440,
       "2022-06-30": 875
     }
