@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.54%",
-    "time": 572,
-    "timeDay": 648,
-    "timeWeek": 481,
-    "timeMonth": 543,
-    "timeYear": 572,
+    "time": 586,
+    "timeDay": 1755,
+    "timeWeek": 653,
+    "timeMonth": 581,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2022-06-22": 349,
       "2022-06-21": 53,
@@ -28,18 +28,19 @@
     "icon": "https://favicons.githubusercontent.com/galaxy.ansible.com",
     "slug": "ansible-galaxy",
     "status": "degraded",
-    "uptime": "77.81%",
+    "uptime": "77.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.06%",
-    "uptimeMonth": "77.81%",
-    "uptimeYear": "77.81%",
-    "time": 3266,
-    "timeDay": 2120,
-    "timeWeek": 3152,
-    "timeMonth": 3266,
-    "timeYear": 3266,
+    "uptimeWeek": "61.39%",
+    "uptimeMonth": "77.04%",
+    "uptimeYear": "77.04%",
+    "time": 3564,
+    "timeDay": 4293,
+    "timeWeek": 3624,
+    "timeMonth": 3564,
+    "timeYear": 3564,
     "dailyMinutesDown": {
-      "2022-07-02": 1376,
+      "2022-07-03": 105,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 908
     }
@@ -61,7 +62,8 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-07-02": 1376,
+      "2022-07-03": 105,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 875
     }
@@ -77,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 827,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "time": 613,
+    "timeDay": 142,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   }
 ]
