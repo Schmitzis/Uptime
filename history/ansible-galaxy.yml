@@ -1,7 +1,7 @@
 url: https://galaxy.ansible.com/api/v2/collections/community/general/versions/?page_size=100
 status: degraded
 code: 200
-responseTime: 3037
-lastUpdated: 2022-07-09T23:01:13.763Z
+responseTime: 2129
+lastUpdated: 2022-07-10T23:02:12.664Z
 startTime: Tue Jun 21 2022 07:14:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
