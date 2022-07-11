@@ -5,11 +5,11 @@ repo: Uptime # The name of this repository
 sites:
   - name: MSQU
     url: https://msqu.de/healthz
-  - name: Ansible Galaxy
-    url: https://galaxy.ansible.com/api/v2/collections/community/general/versions/?page_size=100
+  - name: Ansible Galaxy API
+    url: https://galaxy.ansible.com/api/v2/
     maxResponseTime: 1000
-  - name: Jenkins Plugins
-    url: https://get.jenkins.io/plugins
+  - name: Jenkins Plugins Artifactory
+    url: https://get.jenkins.io/plugins/artifactory/
     maxResponseTime: 1000
   - name: CenterDevice
     url: https://auth.centerdevice.de/login
