@@ -67,7 +67,7 @@
     "timeMonth": 4882,
     "timeYear": 3018,
     "dailyMinutesDown": {
-      "2022-11-01": 256,
+      "2022-11-01": 332,
       "2022-10-31": 1440,
       "2022-10-30": 1427,
       "2022-10-29": 1440,
@@ -188,19 +188,19 @@
     "url": "https://auth.centerdevice.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/auth.centerdevice.de.ico",
     "slug": "center-device",
-    "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.93%",
     "time": 697,
-    "timeDay": 1371,
-    "timeWeek": 882,
-    "timeMonth": 752,
+    "timeDay": 1143,
+    "timeWeek": 860,
+    "timeMonth": 750,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2022-11-01": 0,
+      "2022-11-01": 76,
       "2022-07-25": 58
     }
   }
