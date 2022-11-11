@@ -57,7 +57,7 @@
     "url": "https://get.jenkins.io/plugins/artifactory/",
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.29%",
@@ -69,7 +69,7 @@
     "timeMonth": 4259,
     "timeYear": 2826,
     "dailyMinutesDown": {
-      "2022-11-11": 98,
+      "2022-11-11": 301,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1423,
