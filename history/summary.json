@@ -4,9 +4,9 @@
     "url": "https://msqu.de/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/msqu.de.ico",
     "slug": "msqu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
@@ -16,6 +16,7 @@
     "timeMonth": 520,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2023-03-31": 0,
       "2023-01-30": 43,
       "2023-01-28": 72,
       "2023-01-26": 172,
@@ -88,7 +89,7 @@
     "timeMonth": 2210,
     "timeYear": 2481,
     "dailyMinutesDown": {
-      "2023-03-31": 68,
+      "2023-03-31": 1339,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
