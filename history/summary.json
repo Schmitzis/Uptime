@@ -76,7 +76,7 @@
     "url": "https://get.jenkins.io/plugins/artifactory/",
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.14%",
@@ -88,7 +88,7 @@
     "timeMonth": 2118,
     "timeYear": 2475,
     "dailyMinutesDown": {
-      "2023-04-06": 63,
+      "2023-04-06": 1050,
       "2023-04-05": 1440,
       "2023-04-04": 1425,
       "2023-04-03": 1440,
@@ -374,7 +374,7 @@
     "time": 688,
     "timeDay": 863,
     "timeWeek": 756,
-    "timeMonth": 762,
+    "timeMonth": 749,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2023-03-02": 29,
