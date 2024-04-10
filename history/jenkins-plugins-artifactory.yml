@@ -1,7 +1,7 @@
 url: https://get.jenkins.io/plugins/artifactory/
-status: degraded
+status: up
 code: 200
-responseTime: 1326
-lastUpdated: 2024-04-10T20:39:00.745Z
+responseTime: 371
+lastUpdated: 2024-04-10T20:51:49.092Z
 startTime: 2022-07-11T10:35:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
