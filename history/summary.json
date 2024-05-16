@@ -46,7 +46,7 @@
     "timeMonth": 424,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2024-05-16": 43,
+      "2024-05-16": 61,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -287,7 +287,7 @@
     "slug": "jenkins-plugins-artifactory",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "79.05%",
+    "uptimeDay": "80.29%",
     "uptimeWeek": "83.82%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
