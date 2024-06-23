@@ -21,8 +21,7 @@
       "2023-09-28": 20,
       "2023-08-16": 113,
       "2023-07-01": 62,
-      "2023-06-25": 53,
-      "2023-06-24": 45
+      "2023-06-25": 53
     }
   },
   {
@@ -31,17 +30,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "62.55%",
+    "uptime": "62.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.99%",
+    "uptimeYear": "26.97%",
     "time": 869,
     "timeDay": 385,
     "timeWeek": 833,
     "timeMonth": 410,
     "timeYear": 1017,
     "dailyMinutesDown": {
+      "2024-06-23": 68,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -321,15 +321,16 @@
     "status": "degraded",
     "uptime": "99.66%",
     "uptimeDay": "69.58%",
-    "uptimeWeek": "76.43%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "75.75%",
+    "uptimeMonth": "91.96%",
+    "uptimeYear": "99.33%",
     "time": 1401,
     "timeDay": 1062,
     "timeWeek": 1022,
     "timeMonth": 1046,
     "timeYear": 1321,
     "dailyMinutesDown": {
+      "2024-06-23": 68,
       "2024-06-22": 435,
       "2024-06-21": 606,
       "2024-06-20": 499,
@@ -360,8 +361,7 @@
     "timeYear": 677,
     "dailyMinutesDown": {
       "2024-02-28": 20,
-      "2024-02-19": 15,
-      "2023-06-24": 20
+      "2024-02-19": 15
     }
   }
 ]
