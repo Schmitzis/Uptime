@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "61.03%",
+    "uptime": "61.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,7 @@
     "timeMonth": 401,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2024-07-10": 1136,
+      "2024-07-10": 1160,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -333,14 +333,14 @@
     "url": "https://get.jenkins.io/plugins/artifactory/",
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "49.27%",
-    "uptimeWeek": "61.26%",
-    "uptimeMonth": "86.96%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "49.26%",
+    "uptimeWeek": "61.25%",
+    "uptimeMonth": "87.00%",
+    "uptimeYear": "98.92%",
     "time": 1294,
-    "timeDay": 1022,
+    "timeDay": 1029,
     "timeWeek": 1018,
     "timeMonth": 1033,
     "timeYear": 1285,
@@ -355,7 +355,7 @@
       "2024-07-03": 824,
       "2024-07-02": 549,
       "2024-07-01": 574,
-      "2024-06-30": 80
+      "2024-06-30": 62
     }
   },
   {
