@@ -40,7 +40,7 @@
     "timeMonth": 958,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-08-07": 761,
+      "2024-08-07": 783,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -362,15 +362,15 @@
     "url": "https://get.jenkins.io/plugins/artifactory/",
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "59.86%",
-    "uptimeWeek": "61.56%",
-    "uptimeMonth": "86.45%",
+    "uptimeDay": "60.13%",
+    "uptimeWeek": "61.72%",
+    "uptimeMonth": "86.50%",
     "uptimeYear": "98.87%",
     "time": 1254,
-    "timeDay": 1094,
-    "timeWeek": 1058,
+    "timeDay": 1089,
+    "timeWeek": 1059,
     "timeMonth": 1054,
     "timeYear": 1239,
     "dailyMinutesDown": {
@@ -383,7 +383,7 @@
       "2024-08-01": 857,
       "2024-07-31": 914,
       "2024-07-30": 1250,
-      "2024-07-29": 344
+      "2024-07-29": 322
     }
   },
   {
