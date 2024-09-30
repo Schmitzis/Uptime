@@ -38,7 +38,7 @@
     "timeMonth": 421,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-09-30": 44,
+      "2024-09-30": 77,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -413,7 +413,7 @@
     "status": "up",
     "uptime": "98.01%",
     "uptimeDay": "77.12%",
-    "uptimeWeek": "43.88%",
+    "uptimeWeek": "44.21%",
     "uptimeMonth": "47.02%",
     "uptimeYear": "95.58%",
     "time": 1251,
