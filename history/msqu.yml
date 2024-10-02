@@ -1,7 +1,7 @@
 url: https://msqu.de/healthz
-status: up
-code: 200
-responseTime: 690
-lastUpdated: 2024-10-01T23:06:39.026Z
+status: down
+code: 404
+responseTime: 474
+lastUpdated: 2024-10-02T19:15:15.616Z
 startTime: 2022-04-19T18:24:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
