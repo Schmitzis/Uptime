@@ -43,7 +43,7 @@
     "timeMonth": 542,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-04-02": 823,
+      "2025-04-02": 836,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -415,16 +415,16 @@
     "url": "https://get.jenkins.io/plugins/artifactory/",
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
-    "status": "up",
-    "uptime": "95.04%",
-    "uptimeDay": "25.51%",
-    "uptimeWeek": "5.50%",
-    "uptimeMonth": "4.92%",
-    "uptimeYear": "86.47%",
+    "status": "degraded",
+    "uptime": "95.05%",
+    "uptimeDay": "26.39%",
+    "uptimeWeek": "5.63%",
+    "uptimeMonth": "4.95%",
+    "uptimeYear": "86.48%",
     "time": 1168,
-    "timeDay": 1386,
-    "timeWeek": 1490,
-    "timeMonth": 1509,
+    "timeDay": 1378,
+    "timeWeek": 1483,
+    "timeMonth": 1507,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2025-04-02": 604,
@@ -479,7 +479,7 @@
       "2025-02-12": 1340,
       "2025-02-11": 1376,
       "2025-02-10": 1440,
-      "2025-02-09": 534
+      "2025-02-09": 506
     }
   },
   {
