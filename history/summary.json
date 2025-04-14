@@ -43,7 +43,7 @@
     "timeMonth": 590,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-04-14": 1159,
+      "2025-04-14": 1173,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -427,7 +427,7 @@
     "timeMonth": 1474,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2025-04-14": 1142,
+      "2025-04-14": 1156,
       "2025-04-13": 1349,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -485,19 +485,19 @@
     "url": "https://auth.centerdevice.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/auth.centerdevice.de.ico",
     "slug": "center-device",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 653,
-    "timeWeek": 653,
-    "timeMonth": 671,
+    "time": 675,
+    "timeDay": 714,
+    "timeWeek": 673,
+    "timeMonth": 676,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2025-04-14": 0
+      "2025-04-14": 14
     }
   }
 ]
