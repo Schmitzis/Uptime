@@ -41,9 +41,10 @@
     "timeDay": 908,
     "timeWeek": 497,
     "timeMonth": 615,
-    "timeYear": 594,
+    "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-04-14": 1392,
+      "2025-04-15": 84,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -406,8 +407,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   },
   {
@@ -416,18 +416,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
     "status": "degraded",
-    "uptime": "95.52%",
+    "uptime": "95.51%",
     "uptimeDay": "2.37%",
     "uptimeWeek": "1.93%",
     "uptimeMonth": "7.93%",
-    "uptimeYear": "87.62%",
+    "uptimeYear": "87.59%",
     "time": 1179,
     "timeDay": 1335,
     "timeWeek": 1428,
     "timeMonth": 1469,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2025-04-14": 1358,
+      "2025-04-15": 84,
+      "2025-04-14": 1405,
       "2025-04-13": 1349,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -493,7 +494,7 @@
     "timeDay": 744,
     "timeWeek": 684,
     "timeMonth": 686,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   }
 ]
