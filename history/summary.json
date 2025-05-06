@@ -43,7 +43,8 @@
     "timeMonth": 1057,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-05-05": 1435,
+      "2025-05-06": 85,
+      "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -406,8 +407,7 @@
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
-      "2024-05-07": 1440,
-      "2024-05-06": 1440
+      "2024-05-07": 1440
     }
   },
   {
@@ -417,13 +417,13 @@
     "slug": "jenkins-plugins-artifactory",
     "status": "up",
     "uptime": "97.26%",
-    "uptimeDay": "1.29%",
-    "uptimeWeek": "18.59%",
-    "uptimeMonth": "13.98%",
+    "uptimeDay": "7.59%",
+    "uptimeWeek": "19.47%",
+    "uptimeMonth": "14.19%",
     "uptimeYear": "92.26%",
     "time": 1205,
     "timeDay": 1106,
-    "timeWeek": 1454,
+    "timeWeek": 1460,
     "timeMonth": 1480,
     "timeYear": 1208,
     "dailyMinutesDown": {
