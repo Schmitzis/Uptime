@@ -13,7 +13,7 @@
     "time": 540,
     "timeDay": 467,
     "timeWeek": 553,
-    "timeMonth": 515,
+    "timeMonth": 513,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-09-13": 248,
@@ -31,19 +31,20 @@
     "url": "https://galaxy.ansible.com/api/v2/",
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
-    "status": "degraded",
+    "status": "down",
     "uptime": "36.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 980,
-    "timeDay": 3132,
-    "timeWeek": 1255,
-    "timeMonth": 1012,
+    "timeDay": 1623,
+    "timeWeek": 1205,
+    "timeMonth": 991,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2025-10-30": 1405,
+      "2025-10-31": 85,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -406,8 +407,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -424,7 +424,7 @@
     "time": 1426,
     "timeDay": 200,
     "timeWeek": 278,
-    "timeMonth": 410,
+    "timeMonth": 412,
     "timeYear": 1433,
     "dailyMinutesDown": {
       "2025-09-26": 171,
@@ -492,7 +492,7 @@
     "time": 682,
     "timeDay": 552,
     "timeWeek": 1018,
-    "timeMonth": 798,
+    "timeMonth": 792,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-10-24": 43
