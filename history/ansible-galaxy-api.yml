@@ -1,7 +1,7 @@
 url: https://galaxy.ansible.com/api/v2/
-status: degraded
+status: down
 code: 404
-responseTime: 2689
-lastUpdated: 2025-11-27T21:39:29.678Z
+responseTime: 55
+lastUpdated: 2025-11-27T21:52:01.877Z
 startTime: 2022-07-11T10:35:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
