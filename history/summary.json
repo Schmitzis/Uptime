@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 531,
-    "timeDay": 418,
-    "timeWeek": 522,
-    "timeMonth": 495,
+    "timeDay": 612,
+    "timeWeek": 514,
+    "timeMonth": 502,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-11-16": 204,
       "2025-09-13": 248,
       "2025-07-29": 37,
       "2025-03-22": 24,
-      "2025-02-13": 23,
-      "2024-12-20": 26
+      "2025-02-13": 23
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "35.47%",
+    "uptime": "35.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 998,
-    "timeDay": 639,
-    "timeWeek": 926,
-    "timeMonth": 1049,
-    "timeYear": 1069,
+    "time": 999,
+    "timeDay": 906,
+    "timeWeek": 953,
+    "timeMonth": 1057,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2025-12-19": 100,
+      "2025-12-20": 87,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -404,8 +404,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -419,11 +418,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "88.49%",
-    "time": 1411,
-    "timeDay": 237,
-    "timeWeek": 411,
-    "timeMonth": 496,
-    "timeYear": 1393,
+    "time": 1400,
+    "timeDay": 614,
+    "timeWeek": 418,
+    "timeMonth": 507,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-12-05": 16,
       "2025-09-26": 171,
@@ -489,9 +488,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.94%",
     "time": 714,
-    "timeDay": 693,
-    "timeWeek": 728,
-    "timeMonth": 1145,
+    "timeDay": 676,
+    "timeWeek": 715,
+    "timeMonth": 1142,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-12-06": 213,
