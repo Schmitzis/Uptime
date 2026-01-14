@@ -1,7 +1,7 @@
 url: https://auth.centerdevice.de/login
-status: down
-code: 503
-responseTime: 625
-lastUpdated: 2026-01-14T20:32:05.641Z
+status: up
+code: 200
+responseTime: 760
+lastUpdated: 2026-01-14T21:54:01.992Z
 startTime: 2022-06-30T09:25:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
