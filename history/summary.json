@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 532,
-    "timeDay": 626,
+    "timeDay": 501,
     "timeWeek": 580,
-    "timeMonth": 528,
-    "timeYear": 538,
+    "timeMonth": 530,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-11-16": 204,
       "2025-09-13": 248,
       "2025-07-29": 37,
-      "2025-03-22": 24,
-      "2025-02-13": 23
+      "2025-03-22": 24
     }
   },
   {
@@ -29,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "33.98%",
+    "uptime": "33.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1063,
-    "timeDay": 127,
-    "timeWeek": 1411,
-    "timeMonth": 1222,
-    "timeYear": 1141,
+    "time": 1062,
+    "timeDay": 138,
+    "timeWeek": 1407,
+    "timeMonth": 1223,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2026-02-12": 129,
+      "2026-02-13": 132,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -403,8 +403,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -418,11 +417,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.49%",
-    "time": 1345,
-    "timeDay": 474,
+    "time": 1344,
+    "timeDay": 298,
     "timeWeek": 393,
-    "timeMonth": 348,
-    "timeYear": 1342,
+    "timeMonth": 347,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2025-12-05": 16,
       "2025-09-26": 171,
@@ -488,9 +487,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
     "time": 723,
-    "timeDay": 804,
-    "timeWeek": 690,
-    "timeMonth": 689,
+    "timeDay": 774,
+    "timeWeek": 720,
+    "timeMonth": 695,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2026-01-14": 82,
