@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "31.33%",
+    "uptime": "31.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 539,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2026-06-03": 243,
+      "2026-06-03": 528,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -412,16 +412,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.jenkins.io.ico",
     "slug": "jenkins-plugins-artifactory",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.48%",
-    "time": 1112,
+    "time": 1068,
     "timeDay": 31,
     "timeWeek": 237,
     "timeMonth": 291,
-    "timeYear": 1034,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-06-30": 101,
       "2025-07-04": 1410,
@@ -481,9 +481,9 @@
     "url": "https://auth.centerdevice.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/auth.centerdevice.de.ico",
     "slug": "center-device",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -497,7 +497,8 @@
       "2025-12-05": 41,
       "2025-12-06": 213,
       "2026-01-14": 82,
-      "2026-04-12": 216
+      "2026-04-12": 216,
+      "2026-06-03": 0
     }
   }
 ]
