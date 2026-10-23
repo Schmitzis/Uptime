@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/galaxy.ansible.com.ico",
     "slug": "ansible-galaxy-api",
     "status": "down",
-    "uptime": "28.49%",
+    "uptime": "28.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +38,7 @@
     "timeMonth": 2328,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2026-10-23": 100,
+      "2026-10-23": 213,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
